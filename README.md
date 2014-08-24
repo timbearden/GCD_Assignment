@@ -25,11 +25,11 @@ Finally, the means of each quantitative variable are calculated by subject and a
 
 ###What this repo contains:
 
--README.md; the README file for this repository
--run_analysis.R; the R script for processing the data
--CodeBook.md; the code book for the output file
--finaldata.txt; the output file from run_analysis.R
--UCI HAR Dataset; the original data to process
+- README.md; the README file for this repository
+- run_analysis.R; the R script for processing the data
+- CodeBook.md; the code book for the output file
+- finaldata.txt; the output file from run_analysis.R
+- UCI HAR Dataset; the original data to process
 
 ###Data Source:
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
